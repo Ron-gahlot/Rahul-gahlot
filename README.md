@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1D4ED8&height=120&section=header&text=Rahul%20Kumar%20Gahlot&fontSize=36&fontColor=ffffff&fontAlignY=30&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1D4ED8&height=120&section=header&text=Rahul%20Kumar%20Gahlot&fontSize=36&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 ### 👋 Senior iOS Engineer · Swift · SwiftUI · macOS
 #### 9+ years shipping consumer-scale apps on the App Store
